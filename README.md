@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradeep Bolleddu
-- 👀 I’m interested in Building Products & Solving Complex problems with technologies in Domains like Helthcare,Finance etc.,
+- 👀 I’m interested in Building Products & Solving Complex problems with technologies in Domains like Healthcare,Finance etc.,
 - 🌱 I’m currently learning AI Tools and Computing distributed systems
 -  I’m looking to collaborate on Research purposes , Please feel free to Email: pradeep.bolleddu01@gmail.com
 - 📫 How to reach me Linkedin Profile / via Email. 
