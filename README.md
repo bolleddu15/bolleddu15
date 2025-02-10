@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AI Tools and Computing distributed systems
 -  I’m looking to collaborate on Research purposes , Please feel free to Email: pradeep.bolleddu01@gmail.com
 - 😄 Pronouns: He/Him
-- I love to write about Data science & AI- Concepts  on "My Personal Blog". <a href="https://blog-46677398.hubspotpagebuilder.com/en-us/"> <b>Subscribe Here</b></a>
+- I love to write about Data science & AI- Concepts  on <a href="https://bolleddu15.github.io/pbblog/"> <b>"My Personal Blog"</b></a>
 - **Interested Domains :** Big Data Engineering | Machine learning | Computer vision | Artificial Intelligence(Pre-trained Models,LLM's) & Natural Language Processing.
   
 ## Let's Connect -
