@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Building Products & Solving Complex problems with technologies in Domains like Healthcare,Finance etc.,
 - 🌱 I’m currently learning AI Tools and Computing distributed systems
--  I’m looking to collaborate on Research purposes , Please feel free to Email: pradeep.bolleddu01@gmail.com
+-  I’m looking to collaborate on Research purposes , Please feel free to Email: pradeep.bolleddu1@gmail.com
 - 😄 Pronouns: He/Him
 - I love to write about Data science & AI- Concepts  on <a href="https://bolleddu15.github.io/pbblog/"> <b>"My Personal Blog"</b></a>
 - **Interested Domains :** Big Data Engineering | Machine learning | Computer vision | Artificial Intelligence(Pre-trained Models,LLM's) & Natural Language Processing.
